@@ -6,7 +6,7 @@ import data from './pics/Screenshot 2023-04-14 at 17.10.45.png';
 function WhyUs () {
     return (
         <section className="why-us">
-            <h2>Why Choose Us</h2>
+            <h2>Why Choose Paprika Agency?</h2>
             <div className="reasons">
                 <div className="reason">
                     <img src={expertise} className='he' alt="Reason 1" />
