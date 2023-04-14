@@ -1,0 +1,15 @@
+.home {
+    background-image: url('/src/images/pexels-anna-shvets-5217993\ \(2\).jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 20vh;
+}
